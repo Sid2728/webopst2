@@ -1,0 +1,107 @@
+
+.container {
+    display: flex;
+    
+    justify-content: space-between;
+    margin-top: 250px;
+
+}
+
+.paragraph {
+
+    color: rgb(163, 162, 162);
+    font-size: 22px;
+    width: 450px;
+    font-family: 'Mali', cursive;
+}
+
+.login {
+    color: white;
+    margin-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+
+}
+
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(164, 164, 164, 0.19), 0 6px 20px 0 rgba(164, 164, 164, 0.19);
+    border-radius: 15px;
+    width: 260px;
+    margin-top: -80px;
+    transform: scale(1.09);
+
+}
+
+.card-header1 {
+    background: rgb(250,145,113);
+    background: linear-gradient(90deg, rgba(250,145,113,1) 37%, rgba(249,114,71,1) 75%, rgba(255,102,54,1) 100%);
+    padding-top: 50px;
+    padding-bottom: 0px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.link {
+    padding-left: 30px;
+    color: white;
+    text-decoration: underline;
+
+}
+
+.register {
+    margin-left: 20px;
+    padding-top: 20px;
+    color: white;
+    font-size: 12px;
+}
+
+.card-body1 {
+    margin-left: 20px;
+    padding-bottom: 50px;
+
+
+
+}
+
+.input {
+    width: 220px;
+    height: 30px;
+    
+    border-radius: 3px;
+    border-width: .3px;
+    border-color: rgb(208, 204, 204);
+    outline-width: 0;
+
+}
+
+.btn {
+
+    width: 220px;
+    height: 30px;
+    padding-top: 3px;
+    margin-top: 30px;
+    border-color: rgb(255, 123, 0);
+    color: rgb(255, 123, 0);
+
+}
+
+.body-text {
+    margin-bottom: 2px;
+    margin-top: 30px;
+    color: rgb(174, 172, 172);
+}
+
+.logo {
+    width: 30px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+}
+
+.header {
+    font-size: 30px;
+    font-family: 'Mali', cursive;
+}
+.header-part{
+    color: rgb(255, 123, 0);
+}
